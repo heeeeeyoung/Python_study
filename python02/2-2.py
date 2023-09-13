@@ -140,3 +140,24 @@ print("="*50)
 
 
 
+# a[0:2]
+# 'Li'
+
+# a[5:7]
+# 'is'
+
+# a[12:17]
+# 'short'
+
+# a[19:]
+# 'You need Python'
+
+# a[:17]
+# 'Life is too short'
+
+# a[:]
+# 'Life is too short, You need Python'
+
+# a[19:-7]
+# 'You need'
+
